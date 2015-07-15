@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 4.change3
 5.change4
 6.change5
+7.zheci wo ye buhidao zenme gai le 
