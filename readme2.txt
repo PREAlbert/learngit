@@ -9,3 +9,4 @@ Git is free software distributed under the GPL.
 7.zheci wo ye buhidao zenme gai le
 8.you jia li jiju 
 Creating a new branch is quick
+Creating a new branch is quick & simple
